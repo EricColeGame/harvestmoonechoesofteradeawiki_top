@@ -1,13 +1,30 @@
 {
-  "name": "VV: ULTIMATUM Wiki",
-  "short_name": "VV Ultimatum",
-  "description": "Fan-made VV: ULTIMATUM Roblox wiki with codes, bosses, builds, races and guides.",
+  "id": "/",
+  "name": "Harvest Moon: Echoes of Teradea Wiki",
+  "short_name": "HM Echoes Wiki",
+  "description": "Fan-made Harvest Moon: Echoes of Teradea wiki with farming and crop guides, animal companions, all 10 romance candidates, villager profiles, island exploration and story walkthroughs.",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
-  "background_color": "#0d0d0d",
-  "theme_color": "#9f4623",
+  "display_override": ["standalone", "minimal-ui", "browser"],
+  "orientation": "any",
+  "background_color": "#FFF9EC",
+  "theme_color": "#31C47F",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["games", "entertainment", "reference"],
+  "prefer_related_applications": false,
   "icons": [
-    { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" }
+    { "src": "/favicon-16x16.png", "sizes": "16x16", "type": "image/png" },
+    { "src": "/favicon-32x32.png", "sizes": "32x32", "type": "image/png" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Beginner Guide", "url": "/en/guide" },
+    { "name": "Maps & Locations", "url": "/en/maps" },
+    { "name": "Updates", "url": "/en/updates" }
   ]
 }
