@@ -43,260 +43,324 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Meet every villager, clear a small plot, and lock in a watering routine that carries your whole first season in Teradea."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Farming & Early Money",
+          "description": "Rank the best day-one income routes, from free foraging to fast-turnover crops, and reinvest before your first tool upgrade."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Romance Candidates",
+          "description": "All ten bachelors and bachelorettes, plus how daily visits, liked gifts, and heart events play out across the four towns."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Harvest Moon: Echoes of Teradea."
+          "title": "Animal Companions",
+          "description": "Pets, mounts, and livestock each bring unique abilities — learn how to care for them and pick the right partner for every trip."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending Harvest Moon: Echoes of Teradea Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Romance Candidates",
+        "Farming & Money",
+        "Animal Companions"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
-        },
-        {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "description": "Your first week in Teradea: villagers, crops, companions, and the routine that keeps every season on track.",
+          "href": "/guide/harvest-moon-echoes-of-teradea-beginner-guide"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Marriage Candidates",
+          "description": "Meet all ten romance candidates and learn how affection, gifts, and heart events work.",
+          "href": "/characters/harvest-moon-echoes-of-teradea-marriage-candidates"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Best Early Money Making",
+          "description": "A ranked list of income routes and a repeatable first-week loop for spring.",
+          "href": "/guide/harvest-moon-echoes-of-teradea-best-early-money-making-method"
+        },
+        {
+          "badge": "New",
+          "title": "Animals & Companions",
+          "description": "Livestock, pets, and mounts, plus the daily care routine that raises product quality.",
+          "href": "/mechanics/harvest-moon-echoes-of-teradea-animals"
+        },
+        {
+          "badge": "New",
+          "title": "Open World & Map Design",
+          "description": "How Teradea's four towns, mounts, and traversal upgrades shape your daily plan.",
+          "href": "/mechanics/harvest-moon-echoes-of-teradea-open-world"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Full Walkthrough",
+          "description": "A 30-day progress checklist covering farming, cave runs, companions, and story triggers.",
+          "href": "/guide/harvest-moon-echoes-of-teradea-walkthrough"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Harvest Moon: Echoes of Teradea?",
       "paragraphs": [
-        "Harvest Moon: Echoes of Teradea is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Harvest Moon: Echoes of Teradea is Natsume's newest farming and life-simulation adventure, released on October 15, 2026 for Nintendo Switch 2, Nintendo Switch, PlayStation 5, Xbox Series X|S, and PC via Steam. You take over an overgrown farm in a world that needs rebuilding, then grow crops, raise animals, and restore the land at your own pace.",
+        "What sets Teradea apart is the scale around the farm. Four towns — Bloomfield, Tidewind, Quarrytop, and Maplehill — connect through an open world you explore with jumping, ladder climbing, and vine scaling. Animal companions travel with you, remote islands hide treasure and rare wildlife, and ten romance candidates give you plenty of reasons to stay a while."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Natsume Inc. & IMAGICA GEEQ"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Publisher",
+          "value": "Natsume Inc."
+        },
+        {
+          "label": "Release Date",
+          "value": "October 15, 2026"
+        },
+        {
+          "label": "Platforms",
+          "value": "5"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Farming Sim RPG"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Romance Candidates",
+          "value": "10"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
-        },
-        {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Towns",
+          "value": "4"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore Harvest Moon: Echoes of Teradea Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore the Harvest Moon: Echoes of Teradea Wiki",
+      "description": "Eight guide hubs cover everything in Teradea — first-week farming, romance, animal companions, the four towns, Happilia progression, island exploration, and platform specs.",
       "modules": [
         {
           "order": 1,
-          "name": "Harvest Moon: Echoes of Teradea Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/harvest-moon-echoes-of-teradea-codes",
-          "displayType": "code-box",
+          "name": "Harvest Moon Echoes of Teradea Wiki Beginner Guide",
+          "description": "Learn how to start strong in Teradea: meet the villagers, clear your first plot, plant fast-growing seeds, and build a daily routine that carries your whole first season.",
+          "href": "/guide/harvest-moon-echoes-of-teradea-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "COMING-SOON — No active codes currently available"
+              "label": "1",
+              "detail": "Meet every villager on day one and clear a small plot before you plant anything."
             },
             {
-              "label": "Code",
-              "detail": "STAY-TUNED — Check back soon for new codes"
+              "label": "2",
+              "detail": "Sow inexpensive, fast-growing seeds and water them every morning without fail."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Forage the wild nodes near your farm and sell the surplus to fund your first tool upgrade."
+            },
+            {
+              "label": "4",
+              "detail": "Scout the nearby wilderness, test your jump and climb moves, then buy your first animal."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/harvest-moon-echoes-of-teradea-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Harvest Moon Echoes of Teradea Wiki Romance Candidates",
+          "description": "Explore all ten romance candidates — five bachelors and five bachelorettes — and learn how affection, gifts, and heart events work across the four towns.",
+          "href": "/characters/harvest-moon-echoes-of-teradea-marriage-candidates",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "10 Total",
+              "detail": "Ten romance candidates — five bachelors and five bachelorettes."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Bachelors",
+              "detail": "Five bachelors, each with a distinct schedule and story arc to pursue."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Gifts",
+              "detail": "Affection grows through daily conversation, liked gifts, and festival appearances."
+            },
+            {
+              "label": "Four Towns",
+              "detail": "Candidates live in Bloomfield, Tidewind, Quarrytop, and Maplehill."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/harvest-moon-echoes-of-teradea-tier-list",
-          "displayType": "tier-grid",
+          "name": "Harvest Moon Echoes of Teradea Wiki Farming Guide",
+          "description": "Cover crops, tools, foraging, and seasonal priorities, with practical tips for balancing farm work against exploration and villager requests.",
+          "href": "/guide/harvest-moon-echoes-of-teradea-best-early-money-making-method",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Crops",
+              "detail": "Plant cheap, fast-growing seeds early and reinvest the profit into more plots."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Tools",
+              "detail": "Upgrade the watering can first — it shortens your biggest daily stamina drain."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Foraging",
+              "detail": "Wild nodes cost no seeds and refill daily; sell the surplus for instant cash."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Seasons",
+              "detail": "Water every morning, replant quickly, and keep one season of savings in reserve."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/harvest-moon-echoes-of-teradea-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Harvest Moon Echoes of Teradea Wiki Animal Companions",
+          "description": "Meet the pets, mounts, and livestock that travel with you, and learn which companion abilities help you break obstacles and reach hidden locations.",
+          "href": "/mechanics/harvest-moon-echoes-of-teradea-animals",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Mounts — ride across Teradea fast and reach remote islands and distant mines."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Companion pets — unique abilities that assist scouting and gathering runs."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Cows — milk and cheese turn into a steady, passive daily income."
+            },
+            {
+              "label": "C",
+              "detail": "Chickens — the cheapest first livestock; eggs arrive every morning."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/harvest-moon-echoes-of-teradea-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Harvest Moon Echoes of Teradea Wiki Map and Locations",
+          "description": "Catalog the four towns of Teradea — Bloomfield, Tidewind, Quarrytop, and Maplehill — and what each one offers explorers and farmers.",
+          "href": "/media/harvest-moon-echoes-of-teradea-gameplay",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Bloomfield",
+              "detail": "Your welcoming farm-town hub and the natural place to settle in."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Tidewind",
+              "detail": "A village where a mysterious message washes ashore."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Quarrytop",
+              "detail": "Rugged, stone-flavored town and the first stop for miners."
+            },
+            {
+              "label": "Maplehill",
+              "detail": "Home of the Great Bridge and the game's parkour showcase."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/harvest-moon-echoes-of-teradea-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Harvest Moon Echoes of Teradea Wiki Happilia Guide",
+          "description": "Earn Happilia by helping villagers and completing requests, then reinvest it into restoring Teradea and upgrading your farm.",
+          "href": "/guide/harvest-moon-echoes-of-teradea-walkthrough",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "1",
+              "detail": "Talk to every villager and accept their requests as soon as they appear."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "2",
+              "detail": "Complete requests to earn Happilia and unlock shops and services."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "3",
+              "detail": "Restore buildings around Teradea to expand what each town offers."
+            },
+            {
+              "label": "4",
+              "detail": "Spend Happilia on upgrades that speed up your daily farm routine."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Harvest Moon Echoes of Teradea Wiki Island Exploration",
+          "description": "Sail beyond the mainland using nautical charts to find remote islands, hidden treasure, and rare animals that live nowhere else.",
+          "href": "/mechanics/harvest-moon-echoes-of-teradea-open-world",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Charts",
+              "detail": "Nautical charts unlock the routes to remote islands and hidden coves."
+            },
+            {
+              "label": "Treasure",
+              "detail": "Hidden chests and rare collectibles reward a thorough island search."
+            },
+            {
+              "label": "Rare Pets",
+              "detail": "Unique animals live only on remote islands and make strong companions."
+            },
+            {
+              "label": "Prep",
+              "detail": "Pack food, save first, and keep an escape route before you set sail."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Harvest Moon Echoes of Teradea Wiki Platforms and System Requirements",
+          "description": "Compare every platform, the PC hardware specifications, Steam Deck support, and the features that define each edition of the game.",
+          "href": "/platforms",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Platforms",
+              "detail": "Nintendo Switch 2, Nintendo Switch, PlayStation 5, Xbox Series X|S, and PC via Steam."
+            },
+            {
+              "label": "OS",
+              "detail": "Windows 11 Pro (64-bit) on PC."
+            },
+            {
+              "label": "CPU",
+              "detail": "Intel Core i5-7200U minimum; Core i5-12400F recommended."
+            },
+            {
+              "label": "RAM",
+              "detail": "16 GB RAM for both minimum and recommended builds."
+            },
+            {
+              "label": "GPU",
+              "detail": "GeForce GTX 1650 minimum; GeForce RTX 4060 recommended."
+            },
+            {
+              "label": "Storage",
+              "detail": "8 GB available space; an SSD is recommended."
+            },
+            {
+              "label": "Steam Deck",
+              "detail": "Verified, with native controller glyphs and legible 800p text."
             }
           ]
         }
@@ -308,23 +372,27 @@
       "items": [
         {
           "question": "What is Harvest Moon: Echoes of Teradea?",
-          "answer": "Harvest Moon: Echoes of Teradea is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Harvest Moon: Echoes of Teradea is Natsume's farming and life-simulation adventure, released on October 15, 2026. You grow crops, raise animals, rebuild the land, and explore an open world of four towns, remote islands, and a mysterious Forest of Echoes."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Which platforms can I play Harvest Moon: Echoes of Teradea on?",
+          "answer": "Harvest Moon: Echoes of Teradea launched simultaneously on Nintendo Switch 2, Nintendo Switch, PlayStation 5, Xbox Series X|S, and PC via Steam, and it is Steam Deck Verified for handheld PC play."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How many romance candidates are in Harvest Moon: Echoes of Teradea?",
+          "answer": "There are ten romance candidates in Harvest Moon: Echoes of Teradea — five bachelors and five bachelorettes — spread across Bloomfield, Tidewind, Quarrytop, and Maplehill."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Is Harvest Moon: Echoes of Teradea an open world?",
+          "answer": "Yes. Harvest Moon: Echoes of Teradea links its four towns through an open world, and jumping, ladder climbing, and vine scaling open vertical routes, remote islands, and hidden treasure."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What should beginners do first in Harvest Moon: Echoes of Teradea?",
+          "answer": "Meet every villager on day one, clear a small plot, and plant cheap fast-growing seeds. Water every morning, forage on the way home, and save before you explore the wilderness."
+        },
+        {
+          "question": "Are there dangerous animals in Harvest Moon: Echoes of Teradea?",
+          "answer": "Yes. Wolves, bears, and tigers roam certain regions of Harvest Moon: Echoes of Teradea and can cost you items if they catch you, so travel light, keep an escape route, and save before you explore."
         }
       ]
     },
