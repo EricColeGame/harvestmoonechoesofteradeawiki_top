@@ -1,1 +1,479 @@
-{}
+{
+  "site": {
+    "name": "Harvest Moon: Echoes of Teradea Wiki",
+    "shortName": "Harvest Moon: Echoes of Teradea",
+    "tagline": "Farm-Guides, Liebeskandidaten, Dorfbewohner & Komplettlösungen",
+    "description": "Dein kompletter Guide zu Harvest Moon: Echoes of Teradea — Tipps zu Anbau und Ernte, tierische Begleiter, alle 10 Liebeskandidaten, Dorfbewohner-Profile, Inselerkundung und Story-Komplettlösungen.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler gemacht."
+  },
+  "nav": {
+    "home": "Startseite",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln",
+    "guide": "Guide",
+    "characters": "Charaktere",
+    "mechanics": "Mechaniken",
+    "platforms": "Plattformen",
+    "purchase": "Kauf",
+    "media": "Medien",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "Harvest Moon: Echoes of Teradea Wiki - Guides",
+      "description": "Entdecke Harvest Moon: Echoes of Teradea mit Farm-Guides, Erntetipps, tierischen Begleitern, Liebeskandidaten, Dorfbewohner-Profilen, Inselerkundung und Story-Komplettlösungen."
+    },
+    "hero": {
+      "eyebrow": "Gemütliches Farming-RPG-Abenteuer",
+      "title": "Harvest Moon: Echoes of Teradea Wiki",
+      "description": "Entdecke Teradea mit Farm-Guides, Tipps zu Anbau und Tieren, Profilen der Liebeskandidaten, Dorfbewohner-Infos, Erkundungs-Komplettlösungen, Inselentdeckungen und Story-Guides. Baue deine Farm auf, schließe Freundschaften und lüfte das Geheimnis des Forest of Echoes.",
+      "stats": [
+        "Erscheinungsdatum: 15. Oktober 2026",
+        "10 Liebeskandidaten",
+        "5 Junggesellen",
+        "5 Junggesellinnen"
+      ],
+      "primaryCta": "Einsteiger-Guide",
+      "secondaryCta": "Liebeskandidaten",
+      "tertiaryCta": "Auf Steam spielen",
+      "videoLabel": "Gameplay-Vorstellung"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle ansehen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Reise in Harvest Moon: Echoes of Teradea",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Guide",
+          "description": "Lerne jeden Dorfbewohner kennen, rode ein kleines Feld und finde eine Gießroutine, die dich durch deine erste Saison in Teradea bringt."
+        },
+        {
+          "number": "2",
+          "title": "Landwirtschaft & frühes Geld",
+          "description": "Bewerte die besten Einnahmequellen ab Tag eins, vom kostenlosen Sammeln bis zu schnell wachsenden Feldfrüchten, und reinvestiere vor deinem ersten Werkzeug-Upgrade."
+        },
+        {
+          "number": "3",
+          "title": "Liebeskandidaten",
+          "description": "Alle zehn Junggesellen und Junggesellinnen sowie die Frage, wie tägliche Besuche, beliebte Geschenke und Herz-Events in den vier Städten ablaufen."
+        },
+        {
+          "number": "4",
+          "title": "Tierische Begleiter",
+          "description": "Haustiere, Reittiere und Nutztiere bringen jeweils eigene Fähigkeiten mit — lerne ihre Pflege und wähle den richtigen Partner für jede Tour."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Angesagte Harvest Moon: Echoes of Teradea Guides",
+      "quickLinks": [
+        "Einsteiger-Guide",
+        "Liebeskandidaten",
+        "Landwirtschaft & Geld",
+        "Tierische Begleiter"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Einsteiger-Guide",
+          "description": "Deine erste Woche in Teradea: Dorfbewohner, Feldfrüchte, Begleiter und die Routine, die jede Saison im Plan hält.",
+          "href": "/guide/harvest-moon-echoes-of-teradea-beginner-guide"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Heiratskandidaten",
+          "description": "Lerne alle zehn Liebeskandidaten kennen und erfahre, wie Zuneigung, Geschenke und Herz-Events funktionieren.",
+          "href": "/characters/harvest-moon-echoes-of-teradea-marriage-candidates"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Beste frühe Geldquellen",
+          "description": "Eine Rangliste der Einnahmequellen und ein wiederholbarer Ablauf für die erste Woche im Frühling.",
+          "href": "/guide/harvest-moon-echoes-of-teradea-best-early-money-making-method"
+        },
+        {
+          "badge": "Neu",
+          "title": "Tiere & Begleiter",
+          "description": "Nutztiere, Haustiere und Reittiere sowie die tägliche Pflegeroutine, die die Produktqualität steigert.",
+          "href": "/mechanics/harvest-moon-echoes-of-teradea-animals"
+        },
+        {
+          "badge": "Neu",
+          "title": "Open World & Kartendesign",
+          "description": "Wie Teradeas vier Städte, Reittiere und Fortbewegungs-Upgrades deinen Tagesplan prägen.",
+          "href": "/mechanics/harvest-moon-echoes-of-teradea-open-world"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Komplettlösung",
+          "description": "Eine 30-Tage-Checkliste zu Landwirtschaft, Höhlenläufen, Begleitern und Story-Auslösern.",
+          "href": "/guide/harvest-moon-echoes-of-teradea-walkthrough"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Harvest Moon: Echoes of Teradea?",
+      "paragraphs": [
+        "Harvest Moon: Echoes of Teradea ist Natsumes neuestes Farming- und Lebenssimulations-Abenteuer und erschien am 15. Oktober 2026 für Nintendo Switch 2, Nintendo Switch, PlayStation 5, Xbox Series X|S und PC über Steam. Du übernimmst eine überwucherte Farm in einer Welt, die Wiederaufbau braucht, baust Feldfrüchte an, hältst Tiere und stellst das Land in deinem eigenen Tempo wieder her.",
+        "Was Teradea besonders macht, ist der Maßstab rund um die Farm. Vier Städte — Bloomfield, Tidewind, Quarrytop und Maplehill — sind über eine offene Welt verbunden, die du mit Springen, Leitern und Rankenklettern erkundest. Tierische Begleiter reisen mit dir, abgelegene Inseln verbergen Schätze und seltene Tiere, und zehn Liebeskandidaten geben dir viele Gründe zu bleiben."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Natsume Inc. & IMAGICA GEEQ"
+        },
+        {
+          "label": "Publisher",
+          "value": "Natsume Inc."
+        },
+        {
+          "label": "Erscheinungsdatum",
+          "value": "15. Oktober 2026"
+        },
+        {
+          "label": "Plattformen",
+          "value": "5"
+        },
+        {
+          "label": "Genre",
+          "value": "Farming-Sim-RPG"
+        },
+        {
+          "label": "Liebeskandidaten",
+          "value": "10"
+        },
+        {
+          "label": "Städte",
+          "value": "4"
+        }
+      ],
+      "cta": "Alle Guides entdecken"
+    },
+    "explore": {
+      "title": "Das Harvest Moon: Echoes of Teradea Wiki erkunden",
+      "description": "Acht Guide-Hubs decken alles in Teradea ab — Landwirtschaft der ersten Woche, Romantik, tierische Begleiter, die vier Städte, Happilia-Fortschritt, Inselerkundung und Plattform-Spezifikationen.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Harvest Moon Echoes of Teradea Wiki Einsteiger-Guide",
+          "description": "Lerne, wie du in Teradea stark startest: Lerne die Dorfbewohner kennen, rode dein erstes Feld, pflanze schnell wachsende Samen und baue eine Tagesroutine auf, die dich durch die ganze erste Saison trägt.",
+          "href": "/guide/harvest-moon-echoes-of-teradea-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Lerne am ersten Tag jeden Dorfbewohner kennen und rode ein kleines Feld, bevor du etwas pflanzt."
+            },
+            {
+              "label": "2",
+              "detail": "Säe günstige, schnell wachsende Samen und gieße sie jeden Morgen ohne Ausnahme."
+            },
+            {
+              "label": "3",
+              "detail": "Sammle die wilden Vorkommen nahe deiner Farm und verkaufe den Überschuss für dein erstes Werkzeug-Upgrade."
+            },
+            {
+              "label": "4",
+              "detail": "Erkunde die nahe Wildnis, teste deine Sprung- und Kletterbewegungen und kaufe dann dein erstes Tier."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Harvest Moon Echoes of Teradea Wiki Liebeskandidaten",
+          "description": "Entdecke alle zehn Liebeskandidaten — fünf Junggesellen und fünf Junggesellinnen — und erfahre, wie Zuneigung, Geschenke und Herz-Events in den vier Städten funktionieren.",
+          "href": "/characters/harvest-moon-echoes-of-teradea-marriage-candidates",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Insgesamt 10",
+              "detail": "Zehn Liebeskandidaten — fünf Junggesellen und fünf Junggesellinnen."
+            },
+            {
+              "label": "Junggesellen",
+              "detail": "Fünf Junggesellen mit je eigenem Zeitplan und eigener Storyline."
+            },
+            {
+              "label": "Geschenke",
+              "detail": "Zuneigung wächst durch tägliche Gespräche, beliebte Geschenke und Festivalbesuche."
+            },
+            {
+              "label": "Vier Städte",
+              "detail": "Die Kandidaten leben in Bloomfield, Tidewind, Quarrytop und Maplehill."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Harvest Moon Echoes of Teradea Wiki Farming-Guide",
+          "description": "Behandelt Feldfrüchte, Werkzeuge, Sammeln und saisonale Prioritäten mit praktischen Tipps, um Farmarbeit mit Erkundung und Dorfbewohner-Aufträgen zu vereinbaren.",
+          "href": "/guide/harvest-moon-echoes-of-teradea-best-early-money-making-method",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Feldfrüchte",
+              "detail": "Pflanze früh günstige, schnell wachsende Samen und reinvestiere den Gewinn in weitere Felder."
+            },
+            {
+              "label": "Werkzeuge",
+              "detail": "Verbessere zuerst die Gießkanne — sie verkürzt deinen größten täglichen Ausdauerverbrauch."
+            },
+            {
+              "label": "Sammeln",
+              "detail": "Wilde Vorkommen kosten keine Samen und füllen sich täglich auf; verkaufe den Überschuss für sofortiges Geld."
+            },
+            {
+              "label": "Jahreszeiten",
+              "detail": "Gieße jeden Morgen, pflanze schnell nach und halte eine Saison Ersparnisse in Reserve."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Harvest Moon Echoes of Teradea Wiki Tierische Begleiter",
+          "description": "Lerne die Haustiere, Reittiere und Nutztiere kennen, die mit dir reisen, und erfahre, welche Begleiterfähigkeiten dir helfen, Hindernisse zu überwinden und verborgene Orte zu erreichen.",
+          "href": "/mechanics/harvest-moon-echoes-of-teradea-animals",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Reittiere — reise schnell durch Teradea und erreiche abgelegene Inseln und ferne Minen."
+            },
+            {
+              "label": "A",
+              "detail": "Begleiter-Haustiere — einzigartige Fähigkeiten, die bei Erkundung und Sammeltouren helfen."
+            },
+            {
+              "label": "B",
+              "detail": "Kühe — Milch und Käse werden zu einem stetigen, passiven täglichen Einkommen."
+            },
+            {
+              "label": "C",
+              "detail": "Hühner — das günstigste erste Nutztier; Eier gibt es jeden Morgen."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Harvest Moon Echoes of Teradea Wiki Karte und Orte",
+          "description": "Katalogisiert die vier Städte von Teradea — Bloomfield, Tidewind, Quarrytop und Maplehill — und was jede Entdeckern und Farmern bietet.",
+          "href": "/media/harvest-moon-echoes-of-teradea-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Bloomfield",
+              "detail": "Dein einladender Farmstadt-Hub und der natürliche Ort, um sesshaft zu werden."
+            },
+            {
+              "label": "Tidewind",
+              "detail": "Ein Dorf, in dem eine geheimnisvolle Nachricht an Land gespült wird."
+            },
+            {
+              "label": "Quarrytop",
+              "detail": "Raue, steingeprägte Stadt und erster Stopp für Minenarbeiter."
+            },
+            {
+              "label": "Maplehill",
+              "detail": "Heimat der Great Bridge und die Parkour-Vorzeigestadt des Spiels."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Harvest Moon Echoes of Teradea Wiki Happilia-Guide",
+          "description": "Verdiene Happilia, indem du Dorfbewohnern hilfst und Aufträge erfüllst, und reinvestiere es in den Wiederaufbau von Teradea und den Ausbau deiner Farm.",
+          "href": "/guide/harvest-moon-echoes-of-teradea-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Sprich mit jedem Dorfbewohner und nimm seine Aufträge an, sobald sie erscheinen."
+            },
+            {
+              "label": "2",
+              "detail": "Erfülle Aufträge, um Happilia zu verdienen und Läden sowie Dienste freizuschalten."
+            },
+            {
+              "label": "3",
+              "detail": "Baue Gebäude in ganz Teradea wieder auf, um das Angebot jeder Stadt zu erweitern."
+            },
+            {
+              "label": "4",
+              "detail": "Gib Happilia für Upgrades aus, die deine tägliche Farmroutine beschleunigen."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Harvest Moon Echoes of Teradea Wiki Inselerkundung",
+          "description": "Segle mit Seekarten über das Festland hinaus, um abgelegene Inseln, verborgene Schätze und seltene Tiere zu finden, die nirgendwo sonst leben.",
+          "href": "/mechanics/harvest-moon-echoes-of-teradea-open-world",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Karten",
+              "detail": "Seekarten schalten die Routen zu abgelegenen Inseln und verborgenen Buchten frei."
+            },
+            {
+              "label": "Schätze",
+              "detail": "Verborgene Truhen und seltene Sammelstücke belohnen eine gründliche Inselsuche."
+            },
+            {
+              "label": "Seltene Tiere",
+              "detail": "Einzigartige Tiere leben nur auf abgelegenen Inseln und sind starke Begleiter."
+            },
+            {
+              "label": "Vorbereitung",
+              "detail": "Packe Essen ein, speichere zuerst und halte eine Fluchtroute bereit, bevor du in See stichst."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Harvest Moon Echoes of Teradea Wiki Plattformen und Systemanforderungen",
+          "description": "Vergleiche jede Plattform, die PC-Hardware-Anforderungen, Steam-Deck-Unterstützung und die Funktionen der einzelnen Editionen des Spiels.",
+          "href": "/platforms",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Plattformen",
+              "detail": "Nintendo Switch 2, Nintendo Switch, PlayStation 5, Xbox Series X|S und PC über Steam."
+            },
+            {
+              "label": "OS",
+              "detail": "Windows 11 Pro (64-Bit) auf PC."
+            },
+            {
+              "label": "CPU",
+              "detail": "Mindestens Intel Core i5-7200U; empfohlen Core i5-12400F."
+            },
+            {
+              "label": "RAM",
+              "detail": "16 GB RAM sowohl für Mindest- als auch für empfohlene Konfiguration."
+            },
+            {
+              "label": "GPU",
+              "detail": "Mindestens GeForce GTX 1650; empfohlen GeForce RTX 4060."
+            },
+            {
+              "label": "Speicher",
+              "detail": "8 GB verfügbarer Speicherplatz; eine SSD wird empfohlen."
+            },
+            {
+              "label": "Steam Deck",
+              "detail": "Verified, mit nativen Controller-Symbolen und gut lesbarem Text bei 800p."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu Harvest Moon: Echoes of Teradea.",
+      "items": [
+        {
+          "question": "Was ist Harvest Moon: Echoes of Teradea?",
+          "answer": "Harvest Moon: Echoes of Teradea ist Natsumes Farming- und Lebenssimulations-Abenteuer, das am 15. Oktober 2026 erschien. Du baust Feldfrüchte an, hältst Tiere, baust das Land wieder auf und erkundest eine offene Welt aus vier Städten, abgelegenen Inseln und einem geheimnisvollen Forest of Echoes."
+        },
+        {
+          "question": "Auf welchen Plattformen kann ich Harvest Moon: Echoes of Teradea spielen?",
+          "answer": "Harvest Moon: Echoes of Teradea erschien gleichzeitig für Nintendo Switch 2, Nintendo Switch, PlayStation 5, Xbox Series X|S und PC über Steam und ist für Handheld-PC-Spiel Steam Deck Verified."
+        },
+        {
+          "question": "Wie viele Liebeskandidaten gibt es in Harvest Moon: Echoes of Teradea?",
+          "answer": "In Harvest Moon: Echoes of Teradea gibt es zehn Liebeskandidaten — fünf Junggesellen und fünf Junggesellinnen — verteilt auf Bloomfield, Tidewind, Quarrytop und Maplehill."
+        },
+        {
+          "question": "Ist Harvest Moon: Echoes of Teradea eine offene Welt?",
+          "answer": "Ja. Harvest Moon: Echoes of Teradea verbindet seine vier Städte über eine offene Welt, und Springen, Leitern und Rankenklettern öffnen vertikale Routen, abgelegene Inseln und verborgene Schätze."
+        },
+        {
+          "question": "Was sollten Anfänger in Harvest Moon: Echoes of Teradea zuerst tun?",
+          "answer": "Lerne am ersten Tag jeden Dorfbewohner kennen, rode ein kleines Feld und pflanze günstige, schnell wachsende Samen. Gieße jeden Morgen, sammle auf dem Heimweg und speichere, bevor du die Wildnis erkundest."
+        },
+        {
+          "question": "Gibt es gefährliche Tiere in Harvest Moon: Echoes of Teradea?",
+          "answer": "Ja. Wölfe, Bären und Tiger streifen durch bestimmte Regionen von Harvest Moon: Echoes of Teradea und können dich Gegenstände kosten, wenn sie dich erwischen. Reise deshalb leicht, halte eine Fluchtroute bereit und speichere, bevor du erkundest."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Harvest Moon: Echoes of Teradea zu erkunden?",
+      "description": "Von deinen ersten Feldfrüchten in Teradea bis zum Geheimnis des Forest of Echoes — unser Community-Wiki bietet dir kostenlose, aktuelle Farming-, Romantik- und Story-Guides.",
+      "primary": "Einsteiger-Guide lesen",
+      "secondary": "Auf Steam spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Harvest Moon: Echoes of Teradea Guides",
+    "overviewDescription": "Einsteiger-Komplettlösungen, frühe Geldstrategien, Kochen, Pferde und das Sammeln von Vierkantholz — alles für deine erste Saison in Teradea."
+  },
+  "characters": {
+    "overviewTitle": "Harvest Moon: Echoes of Teradea Charaktere",
+    "overviewDescription": "Alle zehn Heiratskandidaten, Junggesellen und Junggesellinnen, Romantik-Optionen, Charakteranpassung und die komplette Dorfbewohner-Liste."
+  },
+  "mechanics": {
+    "overviewTitle": "Harvest Moon: Echoes of Teradea Spielmechaniken",
+    "overviewDescription": "Tierische Begleiter, Koop und Multiplayer, Open-World-Fortbewegung und Charaktererstellung erklärt."
+  },
+  "platforms": {
+    "overviewTitle": "Harvest Moon: Echoes of Teradea Plattformen",
+    "overviewDescription": "Nintendo Switch 2, Nintendo Switch, PlayStation 5, Xbox Series X|S und PC über Steam — jede Version und was sie bietet."
+  },
+  "purchase": {
+    "overviewTitle": "Harvest Moon: Echoes of Teradea Vorbestellung und Editionen",
+    "overviewDescription": "Preis, Vorbestellerboni, die Collector's Edition und die Special Edition im direkten Vergleich."
+  },
+  "media": {
+    "overviewTitle": "Harvest Moon: Echoes of Teradea Trailer und Reviews",
+    "overviewDescription": "Trailer, Gameplay-Material, Reviews und erste Eindrücke von Natsumes neuestem Farming-Abenteuer."
+  },
+  "community": {
+    "overviewTitle": "Harvest Moon: Echoes of Teradea Community",
+    "overviewDescription": "Der Entwickler hinter dem Spiel, die offizielle Website und die Communities, in denen sich Teradeas Farmer treffen."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "quickLinks": "Schnelllinks",
+    "updated": "Aktualisiert",
+    "playOnRoblox": "Auf Steam spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Harvest Moon: Echoes of Teradea Wiki",
+    "about": "Harvest Moon: Echoes of Teradea Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub zu Landwirtschaft, Feldfrüchten, tierischen Begleitern, Liebeskandidaten, Dorfbewohnern, Erkundung und Story-Komplettlösungen — für neue und erfahrene Spieler.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Harvest Moon: Echoes of Teradea Wiki. Nicht mit Natsume Inc. verbunden.",
+    "description": "Gemütliches Farming-RPG auf Steam, Nintendo Switch, PlayStation 5 und Xbox. Bewirtschafte deine Farm, erkunde Teradea und freunde dich mit 10 Liebeskandidaten an.",
+    "playGame": "Auf Steam spielen",
+    "officialSteam": "Steam Store",
+    "officialNintendo": "Nintendo Switch",
+    "officialPlaystation": "PlayStation Store",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizielles YouTube",
+    "vvBuilder": "Natsume Offizielle Website",
+    "beginnerGuide": "Einsteiger-Guide",
+    "charactersGuides": "Charaktere",
+    "mechanicsGuides": "Spielmechaniken",
+    "platformsGuides": "Plattformen",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}

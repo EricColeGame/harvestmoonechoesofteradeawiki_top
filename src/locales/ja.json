@@ -1,1 +1,479 @@
-{}
+{
+  "site": {
+    "name": "Harvest Moon: Echoes of Teradea Wiki",
+    "shortName": "Harvest Moon: Echoes of Teradea",
+    "tagline": "農業ガイド、恋愛候補、村人、攻略チャート",
+    "description": "Harvest Moon: Echoes of Teradea の完全ガイド — 農業と作物のコツ、動物の仲間、10 人の恋愛候補、村人のプロフィール、島の探索、ストーリー攻略。",
+    "legalNotice": "非公式のファンウィキです。プレイヤーがプレイヤーのために制作しています。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替え",
+    "guide": "ガイド",
+    "characters": "キャラクター",
+    "mechanics": "ゲームシステム",
+    "platforms": "対応機種",
+    "purchase": "購入",
+    "media": "メディア",
+    "community": "コミュニティ"
+  },
+  "home": {
+    "meta": {
+      "title": "Harvest Moon: Echoes of Teradea Wiki - ガイド",
+      "description": "Harvest Moon: Echoes of Teradea を農業ガイド、作物のコツ、動物の仲間、恋愛候補、村人プロフィール、島の探索、ストーリー攻略で紹介します。"
+    },
+    "hero": {
+      "eyebrow": "ほのぼの農場 RPG の冒険",
+      "title": "Harvest Moon: Echoes of Teradea Wiki",
+      "description": "Teradea を農業ガイド、作物と動物のコツ、恋愛候補のプロフィール、村人情報、探索攻略、島の発見、ストーリーガイドで紹介。農場を育て、仲間と親交を深め、Forest of Echoes の謎を解き明かそう。",
+      "stats": [
+        "発売日: 2026年10月15日",
+        "恋愛候補 10 人",
+        "男性候補 5 人",
+        "女性候補 5 人"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "恋愛候補",
+      "tertiaryCta": "Steam でプレイ",
+      "videoLabel": "ゲームプレイ紹介"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて見る"
+    },
+    "start": {
+      "eyebrow": "まずはここから",
+      "title": "Harvest Moon: Echoes of Teradea の旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "Teradea での最初のシーズンを乗り切るために、すべての村人に会い、小さな畑を整え、水やりの習慣を身につけましょう。"
+        },
+        {
+          "number": "2",
+          "title": "農業と序盤の資金稼ぎ",
+          "description": "無料の採取から回転の速い作物まで、初日から使える稼ぎ方をランク付け。最初の道具強化の前に再投資しましょう。"
+        },
+        {
+          "number": "3",
+          "title": "恋愛候補",
+          "description": "10 人の男性・女性候補に加え、毎日の訪問、好みの贈り物、ハートイベントが 4 つの町でどう進むかを解説します。"
+        },
+        {
+          "number": "4",
+          "title": "動物の仲間",
+          "description": "ペット、乗り物、家畜はそれぞれ固有の能力を持ちます。世話の仕方と、旅先ごとに最適なパートナーの選び方を学びましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "話題の Harvest Moon: Echoes of Teradea ガイド",
+      "quickLinks": [
+        "初心者ガイド",
+        "恋愛候補",
+        "農業と資金",
+        "動物の仲間"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "Teradea での最初の一週間：村人、作物、仲間、そして毎シーズンを軌道に乗せる習慣。",
+          "href": "/guide/harvest-moon-echoes-of-teradea-beginner-guide"
+        },
+        {
+          "badge": "人気",
+          "title": "結婚候補",
+          "description": "10 人の恋愛候補を紹介し、好感度、贈り物、ハートイベントの仕組みを解説します。",
+          "href": "/characters/harvest-moon-echoes-of-teradea-marriage-candidates"
+        },
+        {
+          "badge": "人気",
+          "title": "序盤の資金稼ぎ術",
+          "description": "収入源のランキングと、春に繰り返せる最初の一週間のルーティン。",
+          "href": "/guide/harvest-moon-echoes-of-teradea-best-early-money-making-method"
+        },
+        {
+          "badge": "新着",
+          "title": "動物と仲間",
+          "description": "家畜、ペット、乗り物と、製品品質を高める毎日の世話。",
+          "href": "/mechanics/harvest-moon-echoes-of-teradea-animals"
+        },
+        {
+          "badge": "新着",
+          "title": "オープンワールドとマップ設計",
+          "description": "Teradea の 4 つの町、乗り物、移動強化が毎日の計画をどう変えるか。",
+          "href": "/mechanics/harvest-moon-echoes-of-teradea-open-world"
+        },
+        {
+          "badge": "人気",
+          "title": "完全攻略チャート",
+          "description": "農業、洞窟探索、仲間、ストーリー進行を網羅した 30 日間のチェックリスト。",
+          "href": "/guide/harvest-moon-echoes-of-teradea-walkthrough"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Harvest Moon: Echoes of Teradea とは？",
+      "paragraphs": [
+        "Harvest Moon: Echoes of Teradea は Natsume の最新農業・生活シミュレーションアドベンチャーで、2026年10月15日に Nintendo Switch 2、Nintendo Switch、PlayStation 5、Xbox Series X|S、PC（Steam）向けに発売されました。荒れた農場を引き継ぎ、作物を育て、動物を飼い、自分のペースで土地を復興していきます。",
+        "Teradea の特徴は農場を取り巻くスケールです。Bloomfield、Tidewind、Quarrytop、Maplehill の 4 つの町はオープンワールドでつながり、ジャンプ、はしご登り、つた登りで探索できます。動物の仲間が一緒に旅をし、離島には宝物や珍しい野生動物が隠れ、10 人の恋愛候補が滞在したくなる理由を与えてくれます。"
+      ],
+      "stats": [
+        {
+          "label": "開発",
+          "value": "Natsume Inc. & IMAGICA GEEQ"
+        },
+        {
+          "label": "販売",
+          "value": "Natsume Inc."
+        },
+        {
+          "label": "発売日",
+          "value": "2026年10月15日"
+        },
+        {
+          "label": "対応機種",
+          "value": "5"
+        },
+        {
+          "label": "ジャンル",
+          "value": "農業シム RPG"
+        },
+        {
+          "label": "恋愛候補",
+          "value": "10"
+        },
+        {
+          "label": "町の数",
+          "value": "4"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Harvest Moon: Echoes of Teradea Wiki を探索",
+      "description": "8 つのガイドハブが Teradea のすべてを網羅 — 最初の一週間の農業、恋愛、動物の仲間、4 つの町、Happilia の進行、島の探索、対応機種の仕様。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Harvest Moon Echoes of Teradea Wiki 初心者ガイド",
+          "description": "Teradea で好スタートを切る方法：村人に会い、最初の畑を整え、成長の速い種を植え、最初のシーズンを支える毎日の習慣を作りましょう。",
+          "href": "/guide/harvest-moon-echoes-of-teradea-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "まずは初日にすべての村人に会い、何かを植える前に小さな畑を整えましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "安くて成長の速い種をまき、毎朝欠かさず水をやりましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "農場近くの野生の採取ポイントで採集し、余った分を売って最初の道具強化の資金にしましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "近くの荒野を偵察し、ジャンプや登りの動きを試してから最初の家畜を買いましょう。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Harvest Moon Echoes of Teradea Wiki 恋愛候補",
+          "description": "10 人の恋愛候補 — 男性 5 人と女性 5 人 — を紹介し、好感度、贈り物、ハートイベントが 4 つの町でどう機能するかを解説します。",
+          "href": "/characters/harvest-moon-echoes-of-teradea-marriage-candidates",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "合計 10 人",
+              "detail": "恋愛候補は 10 人 — 男性 5 人と女性 5 人。"
+            },
+            {
+              "label": "男性候補",
+              "detail": "それぞれ異なるスケジュールとストーリーを持つ男性候補 5 人。"
+            },
+            {
+              "label": "贈り物",
+              "detail": "好感度は毎日の会話、好みの贈り物、祭りへの参加で上がります。"
+            },
+            {
+              "label": "4 つの町",
+              "detail": "候補たちは Bloomfield、Tidewind、Quarrytop、Maplehill に住んでいます。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Harvest Moon Echoes of Teradea Wiki 農業ガイド",
+          "description": "作物、道具、採取、季節ごとの優先事項を網羅し、農作業と探索・村人の依頼を両立する実践的なコツを紹介します。",
+          "href": "/guide/harvest-moon-echoes-of-teradea-best-early-money-making-method",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "作物",
+              "detail": "安くて成長の速い種を早めにまき、利益をさらに多くの畑に再投資しましょう。"
+            },
+            {
+              "label": "道具",
+              "detail": "まずじょうろを強化 — 毎日のスタミナ消費が最も大きい作業を短縮できます。"
+            },
+            {
+              "label": "採取",
+              "detail": "野生の採取ポイントは種代がかからず毎日復活。余った分を売ればすぐに現金になります。"
+            },
+            {
+              "label": "季節",
+              "detail": "毎朝水をやり、素早く植え直し、1 シーズン分の貯蓄を確保しておきましょう。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Harvest Moon Echoes of Teradea Wiki 動物の仲間",
+          "description": "一緒に旅をするペット、乗り物、家畜を紹介し、障害物を突破して隠された場所にたどり着くのに役立つ仲間の能力を解説します。",
+          "href": "/mechanics/harvest-moon-echoes-of-teradea-animals",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "乗り物 — Teradea を素早く移動し、離島や遠くの鉱山に到達できます。"
+            },
+            {
+              "label": "A",
+              "detail": "コンパニオンペット — 偵察や採集の旅を助ける固有の能力。"
+            },
+            {
+              "label": "B",
+              "detail": "牛 — 牛乳とチーズが安定した毎日の受動的な収入になります。"
+            },
+            {
+              "label": "C",
+              "detail": "ニワトリ — 最も安価な最初の家畜。毎朝卵が手に入ります。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Harvest Moon Echoes of Teradea Wiki マップとロケーション",
+          "description": "Teradea の 4 つの町 — Bloomfield、Tidewind、Quarrytop、Maplehill — と、それぞれが探検者や農家に何を提供するかをまとめます。",
+          "href": "/media/harvest-moon-echoes-of-teradea-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Bloomfield",
+              "detail": "あなたを迎える農場町の拠点で、落ち着いて暮らし始めるのに最適な場所。"
+            },
+            {
+              "label": "Tidewind",
+              "detail": "謎のメッセージが浜辺に流れ着く村。"
+            },
+            {
+              "label": "Quarrytop",
+              "detail": "岩がちで石の香りがする町。鉱夫にとって最初の立ち寄り先。"
+            },
+            {
+              "label": "Maplehill",
+              "detail": "Great Bridge のある町で、本作のパルクールの見せ場。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Harvest Moon Echoes of Teradea Wiki Happilia ガイド",
+          "description": "村人を助け依頼を達成して Happilia を稼ぎ、Teradea の復興と農場の強化に再投資しましょう。",
+          "href": "/guide/harvest-moon-echoes-of-teradea-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "すべての村人と話し、依頼が現れたらすぐに受けましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "依頼を達成して Happilia を稼ぎ、商店やサービスを解放しましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "Teradea の周囲の建物を復興して、各町の提供内容を広げましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "Happilia は毎日の農作業を効率化する強化に使いましょう。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Harvest Moon Echoes of Teradea Wiki 島の探索",
+          "description": "海図を使って本土の外へ航海し、離島、隠された宝物、そこにしかいない珍しい動物を見つけましょう。",
+          "href": "/mechanics/harvest-moon-echoes-of-teradea-open-world",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "海図",
+              "detail": "海図は離島や隠された入り江への航路を解放します。"
+            },
+            {
+              "label": "宝物",
+              "detail": "隠された宝箱や珍しい収集品は、島を隅々まで探す価値があります。"
+            },
+            {
+              "label": "珍しいペット",
+              "detail": "固有の動物は離島にしか住まず、強力な仲間になります。"
+            },
+            {
+              "label": "準備",
+              "detail": "食料を用意し、先にセーブし、出航前に逃げ道を確保しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Harvest Moon Echoes of Teradea Wiki 対応機種と動作環境",
+          "description": "すべての対応機種、PC のハードウェア仕様、Steam Deck 対応、各エディションの特徴を比較します。",
+          "href": "/platforms",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "対応機種",
+              "detail": "Nintendo Switch 2、Nintendo Switch、PlayStation 5、Xbox Series X|S、PC（Steam）。"
+            },
+            {
+              "label": "OS",
+              "detail": "PC は Windows 11 Pro（64 ビット）。"
+            },
+            {
+              "label": "CPU",
+              "detail": "最低 Intel Core i5-7200U、推奨 Core i5-12400F。"
+            },
+            {
+              "label": "RAM",
+              "detail": "最低・推奨ともに 16 GB RAM。"
+            },
+            {
+              "label": "GPU",
+              "detail": "最低 GeForce GTX 1650、推奨 GeForce RTX 4060。"
+            },
+            {
+              "label": "ストレージ",
+              "detail": "8 GB の空き容量。SSD を推奨。"
+            },
+            {
+              "label": "Steam Deck",
+              "detail": "Verified 対応。ネイティブのコントローラー表示と 800p でも読みやすい文字。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "Harvest Moon: Echoes of Teradea に関するよくある質問への簡単な回答。",
+      "items": [
+        {
+          "question": "Harvest Moon: Echoes of Teradea とは？",
+          "answer": "Harvest Moon: Echoes of Teradea は Natsume の農業・生活シミュレーションアドベンチャーで、2026年10月15日に発売されました。作物を育て、動物を飼い、土地を復興し、4 つの町、離島、謎の Forest of Echoes からなるオープンワールドを探索します。"
+        },
+        {
+          "question": "Harvest Moon: Echoes of Teradea はどの機種で遊べますか？",
+          "answer": "Harvest Moon: Echoes of Teradea は Nintendo Switch 2、Nintendo Switch、PlayStation 5、Xbox Series X|S、PC（Steam）で同時発売され、携帯 PC でのプレイに向けて Steam Deck Verified に対応しています。"
+        },
+        {
+          "question": "Harvest Moon: Echoes of Teradea には恋愛候補が何人いますか？",
+          "answer": "Harvest Moon: Echoes of Teradea には 10 人の恋愛候補 — 男性 5 人と女性 5 人 — がおり、Bloomfield、Tidewind、Quarrytop、Maplehill に分かれて暮らしています。"
+        },
+        {
+          "question": "Harvest Moon: Echoes of Teradea はオープンワールドですか？",
+          "answer": "はい。Harvest Moon: Echoes of Teradea は 4 つの町をオープンワールドでつなぎ、ジャンプ、はしご登り、つた登りによって縦方向のルート、離島、隠された宝物が解放されます。"
+        },
+        {
+          "question": "初心者は Harvest Moon: Echoes of Teradea でまず何をすべきですか？",
+          "answer": "初日にすべての村人に会い、小さな畑を整え、安くて成長の速い種を植えましょう。毎朝水をやり、帰り道に採取し、荒野を探索する前にセーブしましょう。"
+        },
+        {
+          "question": "Harvest Moon: Echoes of Teradea に危険な動物はいますか？",
+          "answer": "はい。Harvest Moon: Echoes of Teradea の一部地域にはオオカミ、クマ、トラが徘徊しており、捕まるとアイテムを失うことがあります。荷物を軽くし、逃げ道を確保し、探索前にセーブしましょう。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Harvest Moon: Echoes of Teradea を探索する準備はできましたか？",
+      "description": "Teradea での最初の作物から Forest of Echoes の謎まで、当コミュニティウィキが無料で最新の農業・恋愛・ストーリーガイドを提供します。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steam でプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Harvest Moon: Echoes of Teradea ガイド",
+    "overviewDescription": "初心者攻略、序盤の資金戦略、料理、馬、角材集め — Teradea での最初のシーズンに必要なすべて。"
+  },
+  "characters": {
+    "overviewTitle": "Harvest Moon: Echoes of Teradea キャラクター",
+    "overviewDescription": "10 人の結婚候補、男性・女性候補、恋愛ルート、キャラクター作成、全村人一覧。"
+  },
+  "mechanics": {
+    "overviewTitle": "Harvest Moon: Echoes of Teradea ゲームシステム",
+    "overviewDescription": "動物の仲間、協力・マルチプレイ、オープンワールドの移動、キャラクター作成システムを解説。"
+  },
+  "platforms": {
+    "overviewTitle": "Harvest Moon: Echoes of Teradea 対応機種",
+    "overviewDescription": "Nintendo Switch 2、Nintendo Switch、PlayStation 5、Xbox Series X|S、PC（Steam）— 各バージョンとその内容。"
+  },
+  "purchase": {
+    "overviewTitle": "Harvest Moon: Echoes of Teradea 予約とエディション",
+    "overviewDescription": "価格、予約特典、Collector's Edition、Special Edition を並べて比較。"
+  },
+  "media": {
+    "overviewTitle": "Harvest Moon: Echoes of Teradea トレーラーとレビュー",
+    "overviewDescription": "Natsume の最新農業アドベンチャーのトレーラー、ゲームプレイ映像、レビュー、第一印象。"
+  },
+  "community": {
+    "overviewTitle": "Harvest Moon: Echoes of Teradea コミュニティ",
+    "overviewDescription": "本作の開発元、公式サイト、Teradea の農家が集まるコミュニティ。"
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビゲーション",
+    "quickLinks": "クイックリンク",
+    "updated": "更新",
+    "playOnRoblox": "Steam でプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "ヘルプが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。近日公開予定です！"
+  },
+  "footer": {
+    "aboutTitle": "Harvest Moon: Echoes of Teradea Wiki",
+    "about": "Harvest Moon: Echoes of Teradea Wiki は、農業、作物、動物の仲間、恋愛候補、村人、探索、ストーリー攻略を扱う独立系のファン制作ガイドハブです。新規プレイヤーにもベテランにも役立ちます。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 Harvest Moon: Echoes of Teradea Wiki. Natsume Inc. とは無関係です。",
+    "description": "Steam、Nintendo Switch、PlayStation 5、Xbox のほのぼの農業 RPG。Teradea を耕し、探索し、10 人の恋愛候補と親交を深めましょう。",
+    "playGame": "Steam でプレイ",
+    "officialSteam": "Steam ストア",
+    "officialNintendo": "Nintendo Switch",
+    "officialPlaystation": "PlayStation ストア",
+    "officialDiscord": "公式 Discord",
+    "officialYoutube": "公式 YouTube",
+    "vvBuilder": "Natsume 公式サイト",
+    "beginnerGuide": "初心者ガイド",
+    "charactersGuides": "キャラクター",
+    "mechanicsGuides": "ゲームシステム",
+    "platformsGuides": "対応機種",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}
