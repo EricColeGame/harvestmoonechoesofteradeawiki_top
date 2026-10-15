@@ -37,6 +37,6 @@ export const siteConfig: SiteConfig = {
   social: {
     youtube: "https://www.youtube.com/@NatsumeInc",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "ja", "de", "es"],
   defaultLocale: "en",
 };
