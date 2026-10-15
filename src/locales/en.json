@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "characters": "Characters",
+    "mechanics": "Mechanics",
+    "platforms": "Platforms",
+    "purchase": "Purchase",
+    "media": "Media",
+    "community": "Community"
   },
   "home": {
     "meta": {
@@ -403,12 +410,38 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Harvest Moon: Echoes of Teradea Guides",
+    "overviewDescription": "Beginner walkthroughs, early money strategies, cooking, horses, and the square lumber grind — everything for your first season in Teradea."
+  },
+  "characters": {
+    "overviewTitle": "Harvest Moon: Echoes of Teradea Characters",
+    "overviewDescription": "All ten marriage candidates, bachelors and bachelorettes, romance options, character customization, and the full villager roster."
+  },
+  "mechanics": {
+    "overviewTitle": "Harvest Moon: Echoes of Teradea Game Mechanics",
+    "overviewDescription": "Animal companions, co-op and multiplayer, open-world traversal, and character creation systems explained."
+  },
+  "platforms": {
+    "overviewTitle": "Harvest Moon: Echoes of Teradea Platforms",
+    "overviewDescription": "Nintendo Switch 2, Nintendo Switch, PlayStation 5, Xbox Series X|S, and PC via Steam — every version and what it offers."
+  },
+  "purchase": {
+    "overviewTitle": "Harvest Moon: Echoes of Teradea Pre-Order and Editions",
+    "overviewDescription": "Price, pre-order bonuses, the Collector's Edition, and the Special Edition compared side by side."
+  },
+  "media": {
+    "overviewTitle": "Harvest Moon: Echoes of Teradea Trailers and Reviews",
+    "overviewDescription": "Trailers, gameplay footage, reviews, and first impressions of Natsume's newest farming adventure."
+  },
+  "community": {
+    "overviewTitle": "Harvest Moon: Echoes of Teradea Community",
+    "overviewDescription": "The developer behind the game, the official website, and the communities where Teradea farmers gather."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
+    "quickLinks": "Quick Links",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
     "playOnRoblox": "Play on Steam",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
